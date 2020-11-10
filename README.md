@@ -1,3 +1,52 @@
+# reactjs-auth-jwt-lumen7
+Authentication JWT React JS Lumen 7
+
+> https://cacan.id/authentication-jwt-react-js-lumen-7/
+
+![000](https://user-images.githubusercontent.com/51890752/98679034-fd30dc80-2391-11eb-8625-217b62a60ac5.jpg)
+
+
+# Cara Penggunaan:
+
+## Clone dari GitHub:
+
+	git clone https://github.com/blogcacanid/reactjs-auth-jwt-lumen7.git
+
+## Lalu masuk ke direktori project:
+
+	cd reactjs-auth-jwt-lumen7
+
+## Selanjutnya jalankan perintah berikut:
+
+	npm install
+
+# Testing
+Terakhir kita jalankan React JS dengan menggunakan perintah berikut:
+
+	npm start
+
+Lalu buka browser dan ketikkan URL http://localhost:8081
+
+
+## Register
+![001](https://user-images.githubusercontent.com/51890752/98744510-6a6d5d80-23e4-11eb-8dde-856e2426ade6.jpg)
+
+
+## Login
+![002](https://user-images.githubusercontent.com/51890752/98744556-7eb15a80-23e4-11eb-8339-3156af7b22b6.jpg)
+
+
+## Profile
+![003](https://user-images.githubusercontent.com/51890752/98744589-8d980d00-23e4-11eb-8785-353600998596.jpg)
+
+
+# Back End
+Untuk Back End anda bisa melihat petunjuknya disini:
+
+	https://cacan.id/authentication-jwt-lumen-7/
+	
+
+# reactjs-auth-jwt-lumen7
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
